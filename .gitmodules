@@ -1,0 +1,3 @@
+[submodule "reason-servant"]
+	path = reason-servant
+	url = git@github.com:tgrospic/reason-servant.git
